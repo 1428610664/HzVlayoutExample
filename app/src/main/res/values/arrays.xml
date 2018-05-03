@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--发现页图片-->
+    <integer-array name="find_gv_image">
+        <item>@drawable/ic_category_16</item>
+        <item>@drawable/ic_category_18</item>
+        <item>@drawable/ic_category_2</item>
+        <item>@drawable/ic_category_6</item>
+        <item>@drawable/ic_category_27</item>
+        <item>@drawable/ic_category_24</item>
+        <item>@drawable/ic_category_22</item>
+        <item>@drawable/ic_category_14</item>
+    </integer-array>
+    <!--发现页图片对应的位子-->
+    <string-array name="find_gv_title">
+        <item>干货集中营</item>
+        <item>播放器</item>
+        <item>超文本</item>
+        <item>时光笔记</item>
+        <item>7日天气</item>
+        <item>绘画板</item>
+        <item>知乎专栏</item>
+        <item>微信精选</item>
+    </string-array>
+
+
+    <string-array name="find_list1_title">
+        <item>阅读器</item>
+        <item>音乐</item>
+        <item>视频</item>
+        <item>美图</item>
+        <item>唐诗</item>
+        <item>宋词</item>
+        <item>元曲</item>
+        <item>番茄</item>
+    </string-array>
+    <integer-array name="find_list1_image">
+        <item>@drawable/ic_data_picture</item>
+        <item>@drawable/ic_data_music</item>
+        <item>@drawable/ic_data_video</item>
+        <item>@drawable/ic_data_picture</item>
+        <item>@drawable/ic_data_video</item>
+        <item>@drawable/ic_data_music</item>
+        <item>@drawable/ic_data_picture</item>
+        <item>@drawable/ic_data_video</item>
+    </integer-array>
+
+
+
+    <string-array name="find_list3_title">
+        <item>豆瓣电影</item>
+        <item>豆瓣音乐</item>
+        <item>豆瓣读书</item>
+    </string-array>
+    <integer-array name="find_list3_image">
+        <item>@drawable/bg_small_autumn_tree_min</item>
+        <item>@drawable/bg_small_leaves_min</item>
+        <item>@drawable/bg_small_magnolia_trees_min</item>
+    </integer-array>
+
+
+
+    <string-array name="find_list4_title">
+        <item>时光日志</item>
+        <item>稀土掘金</item>
+        <item>快读头条</item>
+    </string-array>
+    <integer-array name="find_list4_image">
+        <item>@drawable/bg_small_autumn_tree_min</item>
+        <item>@drawable/bg_small_leaves_min</item>
+        <item>@drawable/bg_small_magnolia_trees_min</item>
+    </integer-array>
+
+
+    <!--发现页图片-->
+    <integer-array name="find_pro_pic">
+        <item>@drawable/ic_investment</item>
+        <item>@drawable/ic_project</item>
+        <item>@drawable/ic_financing</item>
+        <item>@drawable/ic_show</item>
+        <item>@drawable/ic_investment</item>
+        <item>@drawable/ic_project</item>
+        <item>@drawable/ic_financing</item>
+        <item>@drawable/ic_show</item>
+        <item>@drawable/ic_investment</item>
+        <item>@drawable/ic_project</item>
+        <item>@drawable/ic_financing</item>
+        <item>@drawable/ic_show</item>
+    </integer-array>
+
+    <!--发现页图片对应的位子-->
+    <string-array name="find_pro_title">
+        <item>干货集中营</item>
+        <item>播放器</item>
+        <item>超文本</item>
+        <item>时光笔记</item>
+        <item>7日天气</item>
+        <item>绘画板</item>
+        <item>快读</item>
+        <item>时光聆听</item>
+        <item>急转弯</item>
+        <item>猜谜语</item>
+        <item>翻译</item>
+        <item>缴费</item>
+    </string-array>
+
+
+</resources>
